@@ -5,7 +5,7 @@ const Header = () => {
         <img
           className="logo"
           src="https://icon-library.com/images/food-app-icon/food-app-icon-0.jpg"
-          alt="logo"
+          alt="logo of the food ordering app"
         />
       </div>
       <div className="header-nav">

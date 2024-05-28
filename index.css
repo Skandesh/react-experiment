@@ -66,8 +66,7 @@
 }
 
 .body-search {
-  padding: 10px;
-  background-color: grey;
+  width: 100px;
 }
 
 .filter-btn {

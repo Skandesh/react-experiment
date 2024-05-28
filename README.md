@@ -3,10 +3,11 @@
 > Created a simple example to demonstrate workings of React with plain JavaScript.
 
 > Planning - component list
-> Header
 
-    - Logo
-    - Nav Items
+- Header
+
+  - Logo
+  - Nav Items
 
 - Body
   - Search
@@ -25,3 +26,7 @@
 - Normal JavaScript functions given by react.js
   - useState()
   - useEffect()
+
+## Config driven UI
+
+- Changing the UI based on the data, and data is getting processed at the backend, so we can show regional offers, seasonal changes.
